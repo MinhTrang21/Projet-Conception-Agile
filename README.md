@@ -1,5 +1,5 @@
 # Projet-Conception-Agile
 
-Binomes:
+Binôme:
 NGUYEN Do Minh Trang - 5221045
 RAKOTOBE Diana - 5203849
